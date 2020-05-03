@@ -1,0 +1,7 @@
+What is a heap? 
+
+What do implementations of common data structures in C look like? 
+
+How does a compiler work?
+
+Should I work on being able to explain how a computer works in greater detail? 
